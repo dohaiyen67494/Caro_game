@@ -27,10 +27,12 @@ Yêu cầu: Đã cài đặt Python.
 
 Cài đặt thư viện:
 Bash
+
 pip install pygame
 
 Chạy game:
 Bash
+
 python main.py
 
 📚 Tài liệu tham khảo
