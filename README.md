@@ -26,14 +26,14 @@
 Yêu cầu: Đã cài đặt Python.
 
 Cài đặt thư viện:
-Bash
-
+```bash
 pip install pygame
+```
 
 Chạy game:
-Bash
-
+```bash
 python main.py
+```
 
 📚 Tài liệu tham khảo
 Pygame Series: Lập trình Game cờ Caro (Steam for Vietnam).
