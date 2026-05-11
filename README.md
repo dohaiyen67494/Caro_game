@@ -6,7 +6,8 @@
 - Hệ thống Logic Hoàn thiện: Ngăn chặn ghi đè quân cờ, nhận diện các trạng thái Thắng - Thua - Hòa chính xác.
 - Giao diện Thân thiện: Màn hình Menu chọn chế độ, bàn cờ chuẩn 15x15, hiệu ứng mượt mà, phản hồi tức thì.
 
-🧠 Cấu trúc dữ liệu & Giải thuậtĐồ án tập trung vào việc tối ưu hóa hiệu suất thông qua các lựa chọn kỹ thuật sau:
+🧠 Cấu trúc dữ liệu & Giải thuật
+Đồ án tập trung vào việc tối ưu hóa hiệu suất thông qua các lựa chọn kỹ thuật sau:
 1. Cấu trúc dữ liệu
    Mảng 2 chiều (2D Array): Sử dụng mảng N x N để lưu trữ trạng thái bàn cờ.
      Quy ước: 0 (ô trống), 1 (quân X), -1 (quân O).
