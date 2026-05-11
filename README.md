@@ -1,5 +1,6 @@
 🎮 Caro Game - AI Integration with Pygame. 
-Đồ án xây dựng ứng dụng trò chơi Caro kinh điển, kết hợp giao diện đồ họa trực quan và Trí tuệ nhân tạo (AI) thông minh. Ứng dụng được phát triển bằng ngôn ngữ Python, sử dụng thư viện Pygame.
+   Đồ án xây dựng ứng dụng trò chơi Caro kinh điển, kết hợp giao diện đồ họa trực quan và Trí tuệ nhân tạo (AI) thông minh. Ứng dụng được phát triển bằng ngôn ngữ Python, sử dụng thư viện Pygame.
+
 ✨ Tính năng chính:
 - Chế độ Người với Người (PvP): Cho phép hai người chơi thi đấu trực tiếp, hệ thống tự động quản lý lượt đánh và kiểm tra thắng thua.
 - Chế độ Người với Máy (PvAI): Thử thách với AI tích hợp thuật toán tìm kiếm thông minh, có khả năng tấn công và phòng thủ linh hoạt.
@@ -20,3 +21,18 @@
      Minimax & Cắt tỉa Alpha-Beta: Dự đoán nước đi của cả hai bên và loại bỏ các nhánh không tiềm năng để tăng độ sâu tính toán.
      Hàm lượng giá (Heuristic): Sử dụng kỹ thuật Pattern Matching để nhận diện các chuỗi cờ, chấm điểm dựa trên độ dài và trạng thái bị chặn đầu.
      Lọc nước đi (Candidate Selection): Chỉ xét các ô trống trong bán kính 2 ô quanh các quân đã đánh để thu hẹp không gian tìm kiếm, giúp AI phản ứng gần như tức thì.
+
+🛠 Cài đặt & Sử dụng
+Yêu cầu: Đã cài đặt Python.
+
+Cài đặt thư viện:
+Bash
+pip install pygame
+
+Chạy game:
+Bash
+python main.py
+
+📚 Tài liệu tham khảo
+Pygame Series: Lập trình Game cờ Caro (Steam for Vietnam).
+Codelearn.io: Làm Game Cờ Caro qua mạng LAN bằng Python.
